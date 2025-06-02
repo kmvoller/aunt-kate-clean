@@ -1,4 +1,4 @@
-// api/chat.js - Enhanced Ask Aunt Kate Healthcare Advocacy API
+// api/chat.js - Enhanced Ask Aunt Kate Healthcare Advocacy API v2
 
 export default async function handler(req, res) {
   // Handle CORS
